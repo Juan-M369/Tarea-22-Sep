@@ -1,0 +1,20 @@
+p {
+    color: blue;
+}
+
+#parrafo_principal {
+    color: green;
+}
+
+h3.h333 {
+    color: rgb(101, 0, 101);
+}
+
+h3.h222 {
+    color: rgb(101, 0, 101)
+    outline 1px solid red;
+}
+
+a[href*="Video Youtube"] {
+    background-color: brown;
+}
